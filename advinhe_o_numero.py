@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-import os #biblioteca de comados do SO
+import os #biblioteca de comandos do SO
 os.system("clear") #limpa tela
 import random #biblioteca randômica
 var1 = random.randint(0,100) #atribui número randômico na var1
