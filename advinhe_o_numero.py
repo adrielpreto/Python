@@ -1,7 +1,6 @@
 # -*- coding: UTF-8 -*-
-import os #biblioteca de comandos do SO
+import os,random #biblioteca de comandos do SO e randômica
 os.system("clear") #limpa tela
-import random #biblioteca randômica
 var1 = random.randint(0,100) #atribui número randômico na var1
 n = 0 #zera contador
 print("Adivinhe o número entre 0 e 100:")
