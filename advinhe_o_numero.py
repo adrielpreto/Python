@@ -6,7 +6,7 @@ n = 0 #zera contador
 print("Adivinhe o número entre 0 e 100:")
 var2 = 1000 #força um número diferente à var2
 while var2 != var1: #enlace enquanto condição não satisfeita 
-    n = n + 1 #incrementa contador de tentativas
+    n += 1 #incrementa contador de tentativas
     var2 = int(input("digite um número: ")) #força var2 ser inteiro
     os.system("clear")
     if var2 > var1:
