@@ -1,2 +1,2 @@
 # Python
-Lab Python just to study Python :-)
+Lab to study Python :-)
