@@ -13,6 +13,5 @@ while var2 != var1: #enlace enquanto condição não satisfeita
         print(var2,"foi muito")
     if var2 < var1:
         print(var2,"foi pouco")
-    if var2 == var1:
-        print("ACERTOU!!! em",n,"tentativas")
+print("ACERTOU!!! em",n,"tentativas")
 input()
